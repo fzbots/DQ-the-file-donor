@@ -359,7 +359,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+            InlineKeyboardButton("✅Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ✅", url=f"https://t.me/howtoopenshortnerlinks/14")
         ])
 
         if offset != "":
@@ -1628,7 +1628,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("✅Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ✅", url=f"https://t.me/howtoopenshortnerlinks/14")
     ])
 
     if offset != "":
